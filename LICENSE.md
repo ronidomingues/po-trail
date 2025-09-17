@@ -1,6 +1,6 @@
 # Licença de Uso Restrito
 
-Copyright (c) 2025 Roni  
+Copyright (c) 2025 Ronivaldo Domingues de Andrade
 Todos os direitos reservados.
 
 Este repositório reúne materiais de apoio de caráter **educacional e acadêmico**, disponibilizados apenas para **consulta pessoal**.
