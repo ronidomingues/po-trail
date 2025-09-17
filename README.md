@@ -1,5 +1,10 @@
 # P.O. Trail
 
+> ⚠️ **Aviso Importante**  
+> Este repositório tem finalidade **exclusivamente educacional e de uso pessoal**.  
+> Alguns arquivos aqui reunidos (como livros e artigos em PDF) possuem **direitos autorais** e estão disponíveis apenas para **consulta**.  
+> É proibida a venda, redistribuição ou modificação destes materiais.
+
 ## Sumário
 
 - [P.O. Trail](#po-trail)
