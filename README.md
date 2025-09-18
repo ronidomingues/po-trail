@@ -36,7 +36,8 @@
     - [Sprint Review](#sprint-review)
     - [Retrospectiva](#retrospectiva)
   - [Scrum Process](#scrum-process)
-    - [Mais informações](#mais-informações)
+  - [Mais informações](#mais-informações)
+  - [Minha primeira TAP](#minha-primeira-tap)
 
 ## Importante ressaltar
 
@@ -376,9 +377,16 @@ Verificar a necessidade de adaptação no processo, validando o que foi negativo
 
     Feito essas atividades (Sprint Planning, Sprint Backlog, Daily Scrum, Sprint Review, Retrospectiva), o ciclo se repete até que o Product Backlog esteja vazio e não haja mais funcionalidades para serem desenvolvidas e com isso o produto esteja pronto e funcionando conforme o planejado.
 
-### Mais informações
+## Mais informações
 
 Para mais informações sobre o assunto de `Gerenciamento de Projetos`, recomendo o seguinte vídeo:
 
 1. [Fundamentos do Grenciamento de Projetos](https://youtu.be/XFdV4Z9SNUk?si=dwKMildsQl3IblEe) - Canal: [for_code](https://www.youtube.com/@for_code)
 2. [Fundamentos de Metodologias Ágeis](https://youtu.be/339Hpncdoa8?feature=shared) - Canal: [for_code](https://www.youtube.com/@for_code)
+
+## Minha primeira TAP
+
+Esse TAP foi produzido como parte do processo de aprendizagem de Gerenciamento de Projetos promovio pela Liga Acadêmica `for_code` a qual eu sou membro, por esse motivo a versão PDF está estilizada de acordo com o tema da Liga.
+
+1. [Laços da Liga - em PDF](./docs/lacos_da_liga_tap.pdf)
+2. [Laços da Liga - em Markdown](./docs/lacos_da_liga_tap.md)
