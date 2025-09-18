@@ -156,8 +156,6 @@ Objetivo: Finalização do primeiro ciclo e Início de um novo ciclo com novas c
 | Apresentação dos Resultados | Facilitadores, Participantes, Registro e Comunicação | Organizar o encontro de socialização Cada grupo apresenta seu resultado Os resultados são registrados em um mural | 1 dia (ou uma reunião) |
 | Encerramento do Ciclo: Avaliação e Rotatividade | P.O., Facilitadores, Coordenador, Registro e Comunicação | Coletar feedbacks Avaliar pontos fortes e melhorias Organizar novas parcerias para o novo ciclo Atualizar o mural com novos interesses Gerar resumo final das atividades Divulgar aprendizados para toda a liga Planejar o próximo ciclo | 3 a 4 dias |
 
-# 
-
 # Divulgação
 
 * **Início da campanha:** 06/10/2025
@@ -170,7 +168,7 @@ Objetivo: Finalização do primeiro ciclo e Início de um novo ciclo com novas c
   **✅ Semana 2→ Realização da roda de conversa, captação dos interesses e montagem dos grupos**  
   **✅ Semana 3 e 4 →Escolha do tema do mini-projeto e produção do mini-projeto**  
   **✅ Semana 5 → Apresentação dos resultados e documentação dos mesmos**
-
+  
   **✅ Semana 6 → Finalização do ciclo com boas documentações e Preparo para o recomeço do mesmo**
 
 * **Público-alvo:** Todos os membros da for\_code sem exceção
